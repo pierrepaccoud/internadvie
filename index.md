@@ -8,7 +8,7 @@ in_menu: true
 ## Page interne **Advie**  
 Association Advie
 2, route de Wintzenheim - 68000 COLMAR
-advie@posteo.net
+[advie@posteo.net](mailto:advie@posteo.net)
 
 Bonjour,  
 Cette adresse vous a été donnée car vous avez participé à la formation longue de 2 ans de perception des forces de vie.
