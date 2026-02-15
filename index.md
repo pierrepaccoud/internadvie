@@ -13,8 +13,8 @@ in_menu: true
 [Retour aux pages publiques](https://pierrepaccoud.github.io/advie/)
 
 Bonjour,  
-L'accès à cette page vous a été donné car vous avez participé à la formation longue de 2 ans de perception des forces de vie.
-Il est de votre responsabilité de ne pas transmettre ce lien en dehors de **Fraternes**.
+Cette page vous a été rendue accessible car vous avez participé à la formation longue de 2 ans de perception des forces de vie.
+Il est de votre responsabilité de ne pas en transmettre l'adresse en dehors du cercle de **Fraternes**.
 Vous trouvez ici des documents internes qui doivent rester au sein du cercle Advie/Fraternes.
 
 ### Documents à télécharger :
