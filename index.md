@@ -10,7 +10,7 @@ in_menu: true
 2, route de Wintzenheim - 68000 COLMAR  
 [advie@posteo.net](mailto:advie@posteo.net)
 
-[Retour aux pages publiques](https://pierrepaccoud.github.io/advie/)
+[Retour aux pages publiques](https://www.cheminsdevie.ovh/ADVIE/Calendrier.html)
 
 Bonjour,  
 Cette page vous a été rendue accessible car vous avez participé à la formation longue de 2 ans de perception des forces de vie.
@@ -36,7 +36,6 @@ Vous trouvez ici des documents internes qui doivent rester au sein du cercle Adv
 - Formation à une perception des forces de vie selon la méthode de Dorian Schmidt
 1er cycle : 2016-2017 : à Colmar, Alsace 
 
->[Voir les statistiques de consultation de cette page](https://s.42l.fr/ADVIE_Interne/admin/miaCrpWKDRAz31ShvwNF2GB-c11VTXw_)
 
  
 [![Bandeau libre]({% link images/Bandeau libre.jpg %}) ](http://www.artlibre.org) 
