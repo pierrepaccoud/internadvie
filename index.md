@@ -1,5 +1,5 @@
 ---
-title: "Accueil Interne"
+title: "Accueil_Interne"
 order: 1
 in_menu: true
 ---
