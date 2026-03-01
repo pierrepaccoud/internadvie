@@ -36,5 +36,7 @@ Vous trouvez ici des documents internes qui doivent rester au sein du cercle Adv
 - Formation à une perception des forces de vie selon la méthode de Dorian Schmidt
 1er cycle : 2016-2017 : à Colmar, Alsace 
 
+>[Voir les statistiques de consultation de cette page](https://s.42l.fr/ADVIE_Interne/admin/miaCrpWKDRAz31ShvwNF2GB-c11VTXw_)
+
  
 [![Bandeau libre]({% link images/Bandeau libre.jpg %}) ](http://www.artlibre.org) 
