@@ -18,7 +18,10 @@ Il est de votre responsabilité de ne pas en transmettre l'adresse en dehors du 
 Vous trouvez ici des documents internes qui doivent rester au sein du cercle Advie/Fraternes.
 
 ### Documents à télécharger :
-à venir   
+- Fraternes ouest, mars 2025  
+ [La fermeté](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/Lafermeté.pdf)  
+ [12 sens - élargissement_1](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/12sens_elargissement_1.pdf)  
+ [12 sens - élargissement_2](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/12sens_elargissement_2.pdf)
 
 ### Historique des Formations / rencontres :  
 - Séminaires  
@@ -33,8 +36,7 @@ Vous trouvez ici des documents internes qui doivent rester au sein du cercle Adv
 - Ateliers transmission  
 ![Historic4]({% link images/Historic4.png %})
 
-- Formation à une perception des forces de vie selon la méthode de Dorian Schmidt
-1er cycle : 2016-2017 : à Colmar, Alsace 
+
 
 
  
