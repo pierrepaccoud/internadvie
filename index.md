@@ -21,7 +21,7 @@ Vous trouvez ici des documents internes qui doivent rester au sein du cercle Adv
 - Fraternes ouest, mars 2025  
  [La fermeté](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/Lafermeté.pdf)  
  [12 sens - élargissement_1](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/12sens_elargissement_1.pdf)  
- [12 sens - élargissement_2](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/12sens_elargissement_2.pdf)
+ [12 sens - élargissement_2](http://www.Cheminsdevie.ovh/ADVIE/Accueil_Interne_files/12sens_elargissement_2.jpg)
 
 ### Historique des Formations / rencontres :  
 - Séminaires  
