@@ -8,7 +8,8 @@ in_menu: true
 ## Page interne **Advie**  
 **Association Advie** :
 2, route de Wintzenheim - 68000 COLMAR  
-[advie@posteo.net](mailto:advie@posteo.net)
+[advie@posteo.net](mailto:advie@posteo.net)  
+                                                                mis à jour le 19 mars 2026    
 
 [Retour aux pages publiques](https://www.cheminsdevie.ovh/ADVIE/Calendrier.html)
 
